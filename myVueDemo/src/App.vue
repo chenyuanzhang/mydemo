@@ -12,9 +12,9 @@
             <el-tab-pane label="定时任务补偿" name="fourth">定时任务补偿</el-tab-pane>
         </el-tabs>
     </el-dialog>
-    <div class="world" v-drag>网博</div>
+    <div class="world" v-drag>网博</div>  
     <router-view />
-
+  
 </div>
 </template>
 
